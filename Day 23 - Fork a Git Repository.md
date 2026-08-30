@@ -44,9 +44,9 @@ On the main page of the `sarah/story-blog` repository, click the Fork button loc
 
 In the fork options screen:
 
-Ensure Fork Owner is set to jon.
+Ensure Fork Owner is set to `jon`.
 
-Leave the Repository Name as story-blog (or default).
+Leave the Repository Name as `story-blog` (or default).
 
 Click Fork Repository.
 
